@@ -1,0 +1,27 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/NotificationMS/CopilotIndices/17.13.444.19527/CodeChunks.db
+/.vs/NotificationMS/CopilotIndices/17.13.444.19527/SemanticSymbols.db
+/.vs/NotificationMS/FileContentIndex/ca2877fc-0c8a-409e-b637-9baeb0e8d140.vsidx
+/.vs/NotificationMS/v17/.wsuo
+/.vs/NotificationMS/v17/DocumentLayout.json
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/NotificationMS/.vs/NotificationMS/CopilotIndices/17.13.444.19527/CodeChunks.db
+/NotificationMS/.vs/NotificationMS/CopilotIndices/17.13.444.19527/CodeChunks.db-shm
+/NotificationMS/.vs/NotificationMS/CopilotIndices/17.13.444.19527/CodeChunks.db-wal
+/NotificationMS/.vs/NotificationMS/CopilotIndices/17.13.444.19527/SemanticSymbols.db
+/NotificationMS/.vs/NotificationMS/CopilotIndices/17.13.444.19527/SemanticSymbols.db-shm
+/NotificationMS/.vs/NotificationMS/CopilotIndices/17.13.444.19527/SemanticSymbols.db-wal
+/NotificationMS/.vs/NotificationMS/FileContentIndex/1f615048-38ce-4b32-bb49-d6b844645dc8.vsidx
+/NotificationMS/.vs/NotificationMS/FileContentIndex/4d465771-f027-472d-a589-174db19ada3c.vsidx
+/NotificationMS/.vs/NotificationMS/FileContentIndex/5d22ca8f-cdc3-49f0-9ff2-b3e2a4a791fc.vsidx
+/NotificationMS/.vs/NotificationMS/FileContentIndex/f1a9b645-13d9-4015-9d41-10133a492300.vsidx
+/NotificationMS/.vs/NotificationMS/FileContentIndex/f91e65b2-142c-48e2-a834-b09749e7d57f.vsidx
+/NotificationMS/.vs/NotificationMS/FileContentIndex/ff47c4d4-9851-42c6-ae96-fbdd2b61b558.vsidx
+/NotificationMS/.vs/NotificationMS/v17/.suo
+/NotificationMS/.vs/NotificationMS/v17/DocumentLayout.backup.json
+/NotificationMS/.vs/NotificationMS/v17/DocumentLayout.json

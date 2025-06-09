@@ -1,0 +1,16 @@
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\bin\Debug\net8.0\NotificationMS.Core.deps.json
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\bin\Debug\net8.0\NotificationMS.Core.dll
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\bin\Debug\net8.0\NotificationMS.Core.pdb
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\bin\Debug\net8.0\NotificationMS.Domain.dll
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\bin\Debug\net8.0\NotificationMS.Domain.pdb
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\obj\Debug\net8.0\NotificationMS.Core.csproj.AssemblyReference.cache
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\obj\Debug\net8.0\NotificationMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\obj\Debug\net8.0\NotificationMS.Core.AssemblyInfoInputs.cache
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\obj\Debug\net8.0\NotificationMS.Core.AssemblyInfo.cs
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\obj\Debug\net8.0\NotificationMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\obj\Debug\net8.0\NotificationMS.Core.sourcelink.json
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\obj\Debug\net8.0\Notifica.9038A126.Up2Date
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\obj\Debug\net8.0\NotificationMS.Core.dll
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\obj\Debug\net8.0\refint\NotificationMS.Core.dll
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\obj\Debug\net8.0\NotificationMS.Core.pdb
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\obj\Debug\net8.0\ref\NotificationMS.Core.dll
