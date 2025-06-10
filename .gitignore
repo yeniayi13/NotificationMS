@@ -27,27 +27,17 @@
 /NotificationMS/.vs/NotificationMS/v17/DocumentLayout.json
 /NotificationMS/.vs/NotificationMS/config/applicationhost.config
 /NotificationMS/.vs/NotificationMS/DesignTimeBuild/.dtbcache.v2
-<<<<<<< HEAD
 /NotificationMS/.vs/NotificationMS/FileContentIndex/25f661c7-1972-4610-b784-80c4c1a69f8f.vsidx
 /NotificationMS/.vs/NotificationMS/FileContentIndex/63cbb888-4cb5-4051-9b64-f7048f066cdf.vsidx
 /NotificationMS/.vs/NotificationMS/FileContentIndex/6af02fdc-ebc7-4aff-9fe1-6fbcc495137a.vsidx
 /NotificationMS/.vs/NotificationMS/FileContentIndex/de0ca253-538d-4cb3-ba73-4841e9f27c70.vsidx
 /NotificationMS/.vs/NotificationMS/FileContentIndex/de19fb6c-da2b-4b2f-9902-85e8d9213100.vsidx
 /NotificationMS/.vs/NotificationMS/FileContentIndex/f69ce413-e5eb-46c6-a93d-e4ffeb7eedba.vsidx
-=======
-/NotificationMS/.vs/NotificationMS/FileContentIndex/28a1811e-3084-48a0-a205-ae5a7e408bf9.vsidx
-/NotificationMS/.vs/NotificationMS/FileContentIndex/3a0d28b7-97a4-407c-b1ca-1a925225bc4b.vsidx
-/NotificationMS/.vs/NotificationMS/FileContentIndex/893769f2-b696-4369-8df1-691e79bcaacc.vsidx
-/NotificationMS/.vs/NotificationMS/FileContentIndex/af8d24ac-b46d-41eb-92a7-e99b6777b975.vsidx
-/NotificationMS/.vs/NotificationMS/FileContentIndex/ba643efb-a43b-4d7f-9739-bee5a6aef7c3.vsidx
-/NotificationMS/.vs/NotificationMS/FileContentIndex/caf92bd9-63d7-4a97-9cad-4c14a7f43716.vsidx
->>>>>>> da94963 (a)
 /NotificationMS/.vs/NotificationMS/v17/.futdcache.v2
 /NotificationMS/.vs/ProjectEvaluation/notificationms.metadata.v9.bin
 /NotificationMS/.vs/ProjectEvaluation/notificationms.projects.v9.bin
 /NotificationMS/.vs/ProjectEvaluation/notificationms.strings.v9.bin
-<<<<<<< HEAD
-=======
+
 /NotificationMS/NotificationMS/obj/Container/FastModeProjectMountDirectory.cache
 /NotificationMS/NotificationMS/obj/Container/ImageBuildContext.cache
 /NotificationMS/NotificationMS/obj/Container/ImageId.cache
@@ -89,6 +79,11 @@
 /NotificationMS/NotificationMS/obj/Container/DebuggeeProgram.cache
 /NotificationMS/NotificationMS/obj/Container/DebuggeeWorkingDirectory.cache
 /NotificationMS/NotificationMS/obj/Container/DistrolessHelperSupported.cache
->>>>>>> da94963 (a)
 obj/
 obj/
+/NotificationMS/.vs/NotificationMS/FileContentIndex/095f2382-6478-4b0e-9e16-c333066ba3e3.vsidx
+/NotificationMS/.vs/NotificationMS/FileContentIndex/17474e59-342f-4402-a39b-c6065a0fc929.vsidx
+/NotificationMS/.vs/NotificationMS/FileContentIndex/31091ae1-59f7-4e84-bb6c-ccbf2e54d23c.vsidx
+/NotificationMS/.vs/NotificationMS/FileContentIndex/335dfaf1-ec22-4d3c-87e8-e1f8f28609a9.vsidx
+/NotificationMS/.vs/NotificationMS/FileContentIndex/3eab6fab-66bb-4f47-a025-e25e61f8f8dd.vsidx
+
