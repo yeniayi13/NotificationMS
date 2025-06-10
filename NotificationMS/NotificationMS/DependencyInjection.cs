@@ -2,6 +2,18 @@ using System.Diagnostics.CodeAnalysis;
 using System.Net.Http.Headers;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
+using NotificationMS.Application.Handler.Command;
+using NotificationMS.Application.Handler.Queries;
+using NotificationMS.Core;
+using NotificationMS.Core.Database;
+using NotificationMS.Core.Service.User;
+using NotificationMS.Infrastructure;
+using NotificationMS.Infrastructure.Database.Context.Postgres;
+using NotificationMS.Infrastructure.Repositories.Mongo;
+using NotificationMS.Infrastructure.Repositories.Postgres;
+using NotificationMS.Infrastructure.Services.User;
+using ProductsMs.Core.Repository;
+using ProductsMS.Core.Repository;
 
 
 namespace NotificationMS
@@ -16,31 +28,29 @@ namespace NotificationMS
             services.AddSwaggerGenWithAuth(configuration);
            // services.KeycloakConfiguration(configuration);
 
-            //* Sin los Scope no funciona!!
-            //services.AddScoped<IApplicationDbContext, ApplicationDbContext>();
-          /*  services.AddScoped<IProductRepository, ProductRepository>();
-            services.AddScoped<IProductRepositoryMongo, ProductRepositoryMongo>();
-            services.AddScoped<ICategoryRepository, CategoryRepository>();
+             //Sin los Scope no funciona!!
+           // services.AddScoped<IApplicationDbContext, ApplicationDbContext>();
+            services.AddScoped<INotificationRepository, NotificationRepository>();
+            services.AddScoped<INotificationRepositoryMongo, NotificationRepositoryMongo>();
+            services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IEmailSender, EmailSender>();
+
             services.AddScoped<ApplicationDbContext>();
             services.AddScoped<IApplicationDbContext>(provider => provider.GetRequiredService<ApplicationDbContext>());
             //Registro de handlers 
-            services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(CreateProductCommandHandler).Assembly));
-            services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(CreateProductCommandHandler).Assembly));
-            services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(UpdateProductCommandHandler).Assembly));
-            services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(GetNameProductQueryHandler).Assembly));
-            services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(GetAvailableProductsQueryHandler).Assembly));
-            services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(GetProductQueryHandler).Assembly));
-            services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(GetAllProductQueryHandler).Assembly));
-            //services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(GetFilteredProductsQueryHandler).Assembly));
-         */
+            services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(CreateNotificationCommandHandler).Assembly));
             
-            /*  services.AddHttpClient<UserService>(
+            services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(GetAllByUserIdQueryHandler).Assembly));
+           
+         
+            
+              services.AddHttpClient<UserService>(
                 client =>
                 {
                     client.BaseAddress = new Uri("https://localhost:18084");
                     client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
                 }
-            );*/
+            );
             return services;
         }
     }

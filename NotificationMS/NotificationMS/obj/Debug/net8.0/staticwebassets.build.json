@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NzopHdNxcjXIWRNhj9SfxNL7qgw/Tmlv6PwEvfXdtpM=",
+  "Source": "NotificationMS",
+  "BasePath": "_content/NotificationMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

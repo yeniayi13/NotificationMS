@@ -1,7 +1,9 @@
 C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\bin\Debug\net8.0\NotificationMS.Core.deps.json
 C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\bin\Debug\net8.0\NotificationMS.Core.dll
 C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\bin\Debug\net8.0\NotificationMS.Core.pdb
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\bin\Debug\net8.0\NotificationMS.Common.dll
 C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\bin\Debug\net8.0\NotificationMS.Domain.dll
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\bin\Debug\net8.0\NotificationMS.Common.pdb
 C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\bin\Debug\net8.0\NotificationMS.Domain.pdb
 C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\obj\Debug\net8.0\NotificationMS.Core.csproj.AssemblyReference.cache
 C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Core\obj\Debug\net8.0\NotificationMS.Core.GeneratedMSBuildEditorConfig.editorconfig

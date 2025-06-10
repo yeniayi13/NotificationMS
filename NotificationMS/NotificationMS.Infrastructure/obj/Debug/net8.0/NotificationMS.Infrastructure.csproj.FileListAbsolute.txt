@@ -2,8 +2,10 @@ C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Infrastructure\bin\
 C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Infrastructure\bin\Debug\net8.0\NotificationMS.Infrastructure.runtimeconfig.json
 C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Infrastructure\bin\Debug\net8.0\NotificationMS.Infrastructure.dll
 C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Infrastructure\bin\Debug\net8.0\NotificationMS.Infrastructure.pdb
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Infrastructure\bin\Debug\net8.0\NotificationMS.Common.dll
 C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Infrastructure\bin\Debug\net8.0\NotificationMS.Core.dll
 C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Infrastructure\bin\Debug\net8.0\NotificationMS.Domain.dll
+C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Infrastructure\bin\Debug\net8.0\NotificationMS.Common.pdb
 C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Infrastructure\bin\Debug\net8.0\NotificationMS.Core.pdb
 C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Infrastructure\bin\Debug\net8.0\NotificationMS.Domain.pdb
 C:\Users\LENOVO\NotificationMS\NotificationMS\NotificationMS.Infrastructure\obj\Debug\net8.0\NotificationMS.Infrastructure.csproj.AssemblyReference.cache
