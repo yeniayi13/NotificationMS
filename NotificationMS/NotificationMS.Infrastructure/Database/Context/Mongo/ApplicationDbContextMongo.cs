@@ -73,7 +73,7 @@ namespace NotificationMS.Infrastructure.Database.Context.Mongo
             {
                 var collectionNames = new[]
                 {
-                    "Notifications",
+                    "Notifications"
                     
                 };
 

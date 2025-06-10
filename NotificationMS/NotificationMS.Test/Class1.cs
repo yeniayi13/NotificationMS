@@ -1,4 +1,4 @@
-﻿namespace NotificationMS.Application
+﻿namespace NotificationMS.Test
 {
     public class Class1
     {

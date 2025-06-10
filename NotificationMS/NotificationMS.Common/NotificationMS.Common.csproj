@@ -7,9 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="AutoMapper\" />
-    <Folder Include="Dtos\Request\" />
-    <Folder Include="Dtos\Response\" />
+    <PackageReference Include="AutoMapper" Version="14.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NotificationMS.Domain\NotificationMS.Domain.csproj" />
   </ItemGroup>
 
 </Project>

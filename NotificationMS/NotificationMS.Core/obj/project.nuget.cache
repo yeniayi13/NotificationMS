@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6Kejmpz0t8Y=",
+  "dgSpecHash": "sE9h296Y2h0=",
   "success": true,
   "projectFilePath": "C:\\Users\\LENOVO\\NotificationMS\\NotificationMS\\NotificationMS.Core\\NotificationMS.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

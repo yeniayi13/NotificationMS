@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\NotificationMS.Application\NotificationMS.Application.csproj" />
     <ProjectReference Include="..\NotificationMS.Infrastructure\NotificationMS.Infrastructure.csproj" />
   </ItemGroup>
 
