@@ -22,7 +22,7 @@ namespace NotificationMS.Controller
             _mediator = mediator ?? throw new ArgumentNullException(nameof(logger));
         }
         [HttpPost("Add-Notification")]
-        public async Task<IActionResult> CreatedProduct([FromBody] CreateNotificationDto createNotificationDto)
+        public async Task<IActionResult> CreatedNotification([FromBody] CreateNotificationDto createNotificationDto)
         {
             try
             {

@@ -9,7 +9,7 @@ namespace NotificationMS.Infrastructure.Database.Factory.Postgres
         public ApplicationDbContext CreateDbContext(string[] args)
         {
             var optionsBuilder = new DbContextOptionsBuilder<ApplicationDbContext>();
-            optionsBuilder.UseNpgsql("Server=localhost;Port=5432;Database=ProductMs;Username=postgres;Password=yeniree0813");
+            optionsBuilder.UseNpgsql("Server=localhost;Port=5432;Database=NotificationMs;Username=postgres;Password=yeniree0813");
 
             return new ApplicationDbContext(optionsBuilder.Options);
         }
