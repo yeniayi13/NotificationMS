@@ -25,11 +25,11 @@ namespace NotificationMS.Infrastructure.Services.User
             _httpClient.DefaultRequestHeaders.Add("Authorization", $"Bearer {headerToken}");
         }
 
-        public async Task<GetUser> BidderExists(Guid userId)
+        public async Task<GetUser> UserExists(Guid userId)
         {
             try
             {
-                var response = await _httpClient.GetAsync($"user/bidder/{userId}");
+                var response = await _httpClient.GetAsync($"user/users/{userId}");
 
                 if (!response.IsSuccessStatusCode)
                 {

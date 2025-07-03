@@ -6,7 +6,7 @@ namespace NotificationMS.Core.Service.User
 {
     public interface IUserService
     {
-        Task<GetUser> BidderExists(Guid userId);
+        Task<GetUser> UserExists(Guid userId);
 
     }
 }
