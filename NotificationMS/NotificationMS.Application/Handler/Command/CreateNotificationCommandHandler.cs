@@ -40,7 +40,7 @@ namespace NotificationMS.Application.Handler.Command
         {
             try
             {
-                var user = await _userService.BidderExists(request.Notification.NotificationUserId);
+                var user = await _userService.UserExists(request.Notification.NotificationUserId);
                 if (user == null)
                 {
                     throw new UserNotFoundException("Usuario no existe");
